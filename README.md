@@ -2,9 +2,9 @@
 
 ### B.Tech CSE Student | Aspiring Software Developer | Data & AI Enthusiast
 
-I'm a Computer Science & Engineering student at **Pranveer Singh Institute of Technology, Kanpur**, focused on building strong foundations in **Data Structures & Algorithms, Python, SQL, Data Analytics, and AI**.
+I'm a Computer Science & Engineering student at **Pranveer Singh Institute of Technology, Kanpur**, focused on **Data Structures & Algorithms, Python, SQL, Data Analytics, and AI**.
 
-I enjoy solving problems, building practical projects, and continuously learning technologies that help turn ideas into useful solutions.
+I enjoy solving problems, building practical projects, and continuously learning technologies that turn ideas into useful solutions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhijeet075">
@@ -62,9 +62,9 @@ I enjoy solving problems, building practical projects, and continuously learning
 ## 🧠 LeetCode
 
 <p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/abhijeet075?theme=dark&font=Karma&ext=heatmap" 
-    alt="LeetCode Stats"
+  <img
+    src="https://leetcard.jacoblin.cool/abhijeet075?theme=dark&font=Karma&ext=heatmap"
+    alt="Abhijeet's LeetCode Statistics"
     width="500"
   />
 </p>
@@ -101,28 +101,54 @@ An AI-powered personal finance project focused on **expense management, financia
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijeet075&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet075&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=abhijeet075&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="Abhijeet's GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet075&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    alt="Abhijeet's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhijeet075&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=abhijeet075&theme=tokyonight&hide_border=true"
+    alt="Abhijeet's GitHub Streak"
+  />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeet075&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeet075&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+    alt="Abhijeet's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhijeet075&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <img
+    src="https://img.shields.io/github/followers/abhijeet075?style=for-the-badge&logo=github&label=Followers"
+    alt="GitHub Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/abhijeet075?style=for-the-badge&logo=github&label=Stars"
+    alt="GitHub Stars"
+  />
+  <img
+    src="https://img.shields.io/github/commit-activity/y/abhijeet075?style=for-the-badge&logo=github&label=Commits"
+    alt="GitHub Commit Activity"
+  />
 </p>
 
 ---
