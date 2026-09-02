@@ -1,64 +1,152 @@
-# Hi there, I'm Abhijeet 👋
+# Hi 👋, I'm Abhijeet Singh
 
-### 🚀 B.Tech CSE Student | Aspiring Software Developer & Data Analyst
+### B.Tech CSE Student | Aspiring Software Developer | Data & AI Enthusiast
 
-Motivated Computer Science & Engineering student (B.Tech, 2024–2028) passionate about **software development**, **data analytics**, and **AI**. I love solving problems, building projects, and turning data into insights. Currently seeking internship and entry-level opportunities to apply my skills and grow in the industry.
+I'm a Computer Science & Engineering student at **Pranveer Singh Institute of Technology, Kanpur**, focused on building strong foundations in **Data Structures & Algorithms, Python, SQL, Data Analytics, and AI**.
+
+I enjoy solving problems, building practical projects, and continuously learning technologies that help turn ideas into useful solutions.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhijeet075">
+    <img src="https://img.shields.io/badge/LinkedIn-abhijeet075-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/abhijeet075/">
+    <img src="https://img.shields.io/badge/LeetCode-abhijeet075-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:abhijeetkushwaha2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at Pranveer Singh Institute of Technology, Kanpur (AKTU University, Lucknow) — *2024–2028*
-- 🏫 Senior Secondary (CBSE) from Jawahar Navodaya Vidyalaya, Kanpur Dehat — *80%, 2023*
-- 🔭 Focused on **Data Analytics, AI, and Software Development**
-- 🌱 Currently strengthening my skills in **DSA, SQL, and Python**
-- 💬 Ask me about **Python, SQL, C/C++, and Power BI**
-- 📫 Reach me at **abhijeetkushwaha2005@gmail.com**
+* 🎓 **B.Tech in Computer Science & Engineering** — 2024–2028
+* 🏫 **Pranveer Singh Institute of Technology, Kanpur**
+* 💻 Strong foundation in **C/C++ & Data Structures and Algorithms**
+* 🐍 Currently developing with **Python**
+* 🗄️ Building proficiency in **SQL & databases**
+* 📊 Exploring **Data Analytics, Power BI & Excel**
+* 🤖 Expanding my knowledge of **AI & Machine Learning**
+* 🧠 Actively solving problems on **LeetCode**
+* ⭐ **4-Star HackerRank — Problem Solving**
+* ⭐ **3-Star HackerRank — SQL**
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html" />
+</p>
 
-**Tools**
+### Data & Analytics
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
----
+### Tools
 
-## 🏆 Achievements
-
-- 💡 **LeetCode:** Solved **250+ DSA problems** covering Data Structures (Arrays, Linked Lists, Trees) and Algorithms (Binary Search, Two Pointers, Sliding Window)
-- ⭐ **HackerRank (Problem Solving):** Earned a **4-Star Rating**, validating strong logical and algorithmic skills
-- ⭐ **HackerRank (SQL):** Achieved a **3-Star Rating**, demonstrating strong data querying proficiency
-
----
-
-## 📊 GitHub Stats
-
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-> 💡 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to activate these cards.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 LeetCode
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet075)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijeetkushwaha2005@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/abhijeet075?theme=dark&font=Karma&ext=heatmap" 
+    alt="LeetCode Stats"
+    width="500"
+  />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/abhijeet075/">
+    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-<p align="center"><i>“Turning data into insights and ideas into code.”</i></p>
+## ⭐ HackerRank
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-4%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-3%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 💰 AI Finance Controller
+
+An AI-powered personal finance project focused on **expense management, financial analytics, intelligent insights, and AI-assisted financial decision making**.
+
+**Tech Focus:** `Python` · `AI` · `Data Analytics` · `Finance`
+
+> 🚧 Currently under active development.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijeet075&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet075&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhijeet075&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeet075&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhijeet075&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+`DSA` · `Python` · `SQL` · `Data Analytics` · `Power BI` · `Backend Development` · `AI/ML`
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhijeet075">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/abhijeet075/">
+    <img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:abhijeetkushwaha2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Learn • Build • Solve • Grow 🚀</i>
+</p>
